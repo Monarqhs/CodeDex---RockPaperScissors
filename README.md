@@ -48,17 +48,6 @@ os module (for clearing the terminal screen)
 How to Run
 Clone this repository:
 
-Bash
+## Live Demo
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-Navigate to the project directory:
-
-Bash
-
-cd YOUR_REPOSITORY_NAME
-Run the Python script:
-
-Bash
-
-python your_script_name.py
-Follow the on-screen prompts to play!
+[![Run on Replit](https://replit.com/badge/github/Monarqhs/CodeDex---RockPaperScissors)](https://replit.com/github/Monarqhs/CodeDex---RockPaperScissors)
